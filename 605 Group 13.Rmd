@@ -1,0 +1,17 @@
+---
+title: "605 Group 13"
+author: "Yezhou Li"
+date: "11/26/2019"
+output: html_document
+---
+
+
+```{r}
+mr1 = read.csv('./data/full_dataset1.csv')
+mr4 = read.csv('./data/full_dataset4.csv')
+```
+
+```{r}
+mr1
+```
+
